@@ -1,1 +1,1 @@
-cd "C:\Users\Administrator"
+#second scripts
